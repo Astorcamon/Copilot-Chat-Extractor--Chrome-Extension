@@ -2,54 +2,103 @@
 Fill the content whith any you want.-->
 
 <div align="center">
-   <h2>ProjectName</h2>
-   <span>Short descritpion in a image, logo or text.</span>
+   <img src="./.resources/CCE-Tittle.png" alt="Copilot Chat Extractor" width="600px"/>
 </div>
 
 <hr/>
+<br/>
 
 <div align="center">
    
 <!-- Badges - Replace projectName with the name of the project also, change or add the link-->
 
-[![Downloads](https://img.shields.io/github/downloads/Astorcamon/Astorcamon/total)](https://github.com/Astorcamon/Astorcamon/releases)
-[![License](https://img.shields.io/github/license/Astorcamon/Astorcamon)](https://github.com/Astorcamon/Astorcamon/Astorcamon/license)
-[![Latest Release](https://img.shields.io/github/v/release/Astorcamon/Astorcamon)](https://github.com/Astorcamon/Astorcamon/releases/latest)
-[![Release Date](https://img.shields.io/github/release-date/Astorcamon/Astorcamon)](https://github.com/Astorcamon/Astorcamon/releases)
-<!-- Tag badges
-![Latest Tag](https://img.shields.io/github/v/tag/Astorcamon/Astorcamon)
--->
-<!-- Nuget badges
-![Nuget Package](https://img.shields.io/nuget/v/:packageName)
-![Nuget Package](https://img.shields.io/nuget/dt/:packageName)
--->
-[![Languages](https://img.shields.io/github/languages/count/Astorcamon/Astorcamon)](https://github.com/Astorcamon/Astorcamon)
-[![Top Language](https://img.shields.io/github/languages/top/Astorcamon/Astorcamon)](https://github.com/Astorcamon/Astorcamon)
-[![Repo Size](https://img.shields.io/github/repo-size/Astorcamon/Astorcamon)](https://github.com/Astorcamon/Astorcamon)
-[![Visits](https://visitor-badge.laobi.icu/badge?page_id=Astorcamon.Astorcamon/Astorcamon)](https://github.com/Astorcamon/Astorcamon)
+[![Visits](https://visitor-badge.laobi.icu/badge?page_id=Astorcamon.Copilot-Chat-Extractor--Chrome-Extension)](https://github.com/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension)
+[![Downloads](https://img.shields.io/github/downloads/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension/total)](https://github.com/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension/releases)
+[![License](https://img.shields.io/badge/License-Propietary-gray?style=flat&label=License&labelColor=gray&color=%23aaa)](./LICENSE.md)
+[![Latest Release](https://img.shields.io/github/v/release/Astorcamon/Copilot-Chat-Extractor-Chrome--Extension)](https://github.com/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension/releases/latest)
+[![Release Date](https://img.shields.io/github/release-date/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension)](https://github.com/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension/releases)
 
 </div>
 
-# Project Name
-Detailed Description
+<hr/>
+<br/>
 
-## Table of Contents
-- [Getting Started](#getting-started)
-- [Documentation](#documentation)
-- [Screenshots](#screenshots)
-- [Support Development](#support-development)
+# <img src="./.resources/CCE128.png" alt="CCE" width="32px" align="center"/> Copilot Chat Extractor
 
+**CCE** is a browser extension that lets you export **Copilot conversations** in one click.
 
-# Getting Started
-Instructions of how to use or how to install.
+<hr/>
 
-# Documentation
-Links to documentation
+## 📥 Downloads
 
-# Screenshots
-If have if not remove from Table of Contents
+- Download and install the latest **CCE-Extension.zip** → [Releases](../../releases).
+- Or install **CCE** directly from **Chrome Web Store** → **(Coming soon)**
 
-# Support Development
+<hr/>
+
+## 🛟 Need help?
+
+- Read how to install and use **CCE** → [Instructions](./INSTRUCTIONS.md).
+- Find some answers on this section → [FAQ](./FAQ.md).
+- Other issues, questions, or suggestions → [Issues](../../issues).
+
+> **Note:** Use English as the communication language for community support.
+
+<hr/>
+
+## 📸 Screenshots
+
+<a href=".screenshots/copilot.png"><img src=".screenshots/copilot.png" alt="Copilot" height="100px" align="center"/></a>
+<a href=".screenshots/popup.png"><img src=".screenshots/popup.png" alt="Popup" height="100px" align="center"/></a>
+<a href=".screenshots/languages.png"><img src=".screenshots/languages.png" alt="Languages" height="100px" align="center"/></a>
+<a href=".screenshots/sidepanel.png"><img src=".screenshots/sidepanel.png" alt="Sidepanel" height="100px" align="center"/></a>
+<a href=".screenshots/home.png"><img src=".screenshots/home.png" alt="Home" height="100px" align="center"/></a>
+<a href=".screenshots/desktop1.png"><img src=".screenshots/desktop1.png" alt="Desktop1" height="100px" align="center"/></a>
+<a href=".screenshots/desktop3.png"><img src=".screenshots/desktop3.png" alt="Desktop2" height="100px" align="center"/></a>
+
+<hr/>
+
+## ✨ Features
+
+- **Copilot Everywhere**. (Open Copilot in a pop-up window, new tab, or side panel.).
+- **Plus** Add Copilot to desktop, taskbar, or Start Menu. (Read → [Instructions](./INSTRUCTIONS.md))
+- **Copilot UI integration**. (Export buttons inside Copilot.)
+- **Export conversations in MD** (Markdown) with a known Copilot style.
+- **Export conversations in Docx** (Word / Libreoffice) with a more office style.
+- **Themes for the extension**. (Dark, Light, Copilot, Win11, Dos, Matrix, and more...)
+- **Themes in Copilot**. (CCE - Menu follows Copilot themes dark / light).
+- **Translated in your language**, (13 languages available)
+
+<hr/>
+
+## 🌍 Languages
+
+- Dansk | Deutsch | English | Español | Suomi | Français | Italiano | 日本語 | 한국어 | Nederlands | Norsk | Português | Svenska
+
+<hr/>
+
+## 🎨 Themes
+
+- Copilot | Dark | Light | Win11 | Dos | Matrix | Cyberpunk
+
+<hr/>
+
+## 🛡️ Privacy Policy
+
+- This extensión don´t collect personal data → [Privacy Policy](./PRIVACY-POLICY.md).
+
+<hr/>
+
+## 📜 License
+
+- This software is proprietary. All rights reserved → [License](./LICENSE.md).
+
+<hr/>
+
+## ❤️ Contributions
+
+- Any contribution is welcome. Many thanks!!
+
    <Table>
       <th>Paypal</th>
       <th>Github</th>
