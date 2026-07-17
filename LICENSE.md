@@ -1,6 +1,4 @@
-Copilot Chat Extractor (CCE)
-Proprietary License — All Rights Reserved
-Copyright (c) 2026 Astorcamon
+Copilot Chat Extractor (CCE) Proprietary License — All Rights Reserved (Copyright (c) 2026 Astorcamon)
 
 1. DEFINITIONS  
    1.1. “Software” refers to Copilot Chat Extractor (CCE), including its source code, or any part of its content and any future updates or improvements.  
