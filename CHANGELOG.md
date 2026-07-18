@@ -2,7 +2,7 @@ This file contains the sequential changes from the different versions of the pro
 
 # CCE-Extension v1.0.0
 
-First Copilot Chat Extractor (CCE-Extension-v1.0.0) public release.
+First Copilot Chat Extractor (CCE-Extension-v1.0.0) public release.  
 Browser extension that lets you export Copilot conversations in one click.
 
 ## ✨ Features
