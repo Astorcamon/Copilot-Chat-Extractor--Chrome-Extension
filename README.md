@@ -26,9 +26,9 @@ Fill the content whith any you want.-->
 # <img src="./.resources/CCE128.png" alt="CCE" width="32px" align="center"/> Copilot Chat Extractor
 
 **CCE** is a browser extension that lets you export **Copilot conversations** in one click.  
-User‑friendly, multi-language, multi-theme, multi‑format, and fully integrated into Copilot.   
-No more scrolling, no more limits: real automated exports for real productivity.  
-New powerful features are coming soon...
+- User‑friendly, multi-language, multi-theme, multi‑format, and fully integrated into Copilot.   
+- No more scrolling, no more limits: real automated exports for real productivity.  
+- New powerful features are coming soon...
 
 <hr/>
 
