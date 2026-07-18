@@ -25,9 +25,11 @@ Fill the content whith any you want.-->
 
 # <img src="./.resources/CCE128.png" alt="CCE" width="32px" align="center"/> Copilot Chat Extractor
 
-**CCE** is a browser extension that lets you export **Copilot conversations** in one click.  
-- User‑friendly, multi-language, multi-theme, multi‑format, and fully integrated into Copilot.   
-- No more scrolling, no more limits: real automated exports for real productivity.  
+**CCE** is a browser extension that lets you export **Copilot conversations** in one click.
+
+- User‑friendly, multi-language, multi-theme, multi‑format, and fully integrated into Copilot.
+- Rich formatted documents with tables, code blocks, lists, links, timestamps...
+- No more scrolling, no more limits: real automated exports for real productivity.
 - New powerful features are coming soon...
 
 <hr/>
@@ -63,14 +65,15 @@ Fill the content whith any you want.-->
 
 ## ✨ Features
 
-- **Copilot Everywhere**. (Open Copilot in a pop-up window, new tab, or side panel.).
-- **Plus** Add Copilot to desktop, taskbar, or Start Menu. (Read → [Instructions](./INSTRUCTIONS.md))
-- **Copilot UI integration**. (Export buttons inside Copilot.)
-- **Export conversations in MD** (Markdown) with a known Copilot style.
-- **Export conversations in Docx** (Word / Libreoffice) with a more office style.
-- **Themes for the extension**. (Dark, Light, Copilot, Win11, Dos, Matrix, and more...)
-- **Themes in Copilot**. (CCE - Menu follows Copilot themes dark / light).
-- **Translated in your language**, (13 languages available)
+- **Everywhere** → Open Copilot in a pop-up window, new tab, or side panel.
+- **Plus** → Add Copilot to desktop, taskbar, and Start Menu.
+- **Copilot UI** → Export buttons inside Copilot.
+- **Export MD** → Export in Markdown with Copilot style flavor.
+- **Export Docx** → Export in Word / LibreOffice with a more office style.
+- **Rich format** → Documents with tables, code blocks, lists, links, timestamps...
+- **Themes CCE** → Dark, Light, Copilot, Win11, Dos, Matrix, and more...
+- **Themes Copilot** → CCE menu follows Copilot dark/light themes.
+- **Translations** → Available in 13 languages
 
 <hr/>
 
