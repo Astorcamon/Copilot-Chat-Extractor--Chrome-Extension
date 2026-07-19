@@ -101,5 +101,6 @@ Use the shortcut like any Windows shortcut:
 - Tested on **Chrome** browser and **Windows**.
 - It should work on **Chromium‑based** browsers.
 - May be compatible with other browsers and operating systems.
+- Edge and Copilot for Microsoft 365 is not implemented yet.
 
 <hr/>
