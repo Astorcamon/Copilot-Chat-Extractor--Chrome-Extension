@@ -30,4 +30,3 @@
 
 - **Q: [Can the extension be used in other browsers?](ca://s?q=Use_extension_in_other_browsers)**
   - A1: The extension is tested in Chrome and may work in other Chromium‑based browsers.
-  - A2: It is confirmed that it does not work in Edge due to technical reasons.
