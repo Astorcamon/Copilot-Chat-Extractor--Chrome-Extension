@@ -55,11 +55,12 @@ Fill the content whith any you want.-->
 
 <a href=".screenshots/copilot.png"><img src=".screenshots/copilot.png" alt="Copilot" height="100px" align="center"/></a>
 <a href=".screenshots/popup.png"><img src=".screenshots/popup.png" alt="Popup" height="100px" align="center"/></a>
+<a href=".screenshots/doc1.png"><img src=".screenshots/doc1.png" alt="Document" height="100px" align="center"/></a>
 <a href=".screenshots/languages.png"><img src=".screenshots/languages.png" alt="Languages" height="100px" align="center"/></a>
 <a href=".screenshots/sidepanel.png"><img src=".screenshots/sidepanel.png" alt="Sidepanel" height="100px" align="center"/></a>
 <a href=".screenshots/home.png"><img src=".screenshots/home.png" alt="Home" height="100px" align="center"/></a>
 <a href=".screenshots/desktop1.png"><img src=".screenshots/desktop1.png" alt="Desktop1" height="100px" align="center"/></a>
-<a href=".screenshots/desktop3.png"><img src=".screenshots/desktop3.png" alt="Desktop2" height="100px" align="center"/></a>
+<a href=".screenshots/desktop3.png"><img src=".screenshots/desktop3.png" alt="Desktop3" height="100px" align="center"/></a>
 
 <hr/>
 
