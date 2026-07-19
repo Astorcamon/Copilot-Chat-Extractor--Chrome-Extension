@@ -15,7 +15,7 @@ Fill the content whith any you want.-->
 [![Visits](https://visitor-badge.laobi.icu/badge?page_id=Astorcamon.Copilot-Chat-Extractor--Chrome-Extension)](https://github.com/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension)
 [![Downloads](https://img.shields.io/github/downloads/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension/total)](https://github.com/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension/releases)
 [![License](https://img.shields.io/badge/License-Propietary-gray?style=flat&label=License&labelColor=gray&color=%23aaa)](./LICENSE.md)
-[![Latest Release](https://img.shields.io/github/v/release/Astorcamon/Copilot-Chat-Extractor-Chrome--Extension)](https://github.com/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension)](https://github.com/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension/releases/latest)
 [![Release Date](https://img.shields.io/github/release-date/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension)](https://github.com/Astorcamon/Copilot-Chat-Extractor--Chrome-Extension/releases)
 
 </div>
